@@ -1,2 +1,3 @@
-Inbox branch three.txt file
-inbox -->made few corrections
+Inbox branch three.txt file.
+inbox -->made few corrections.
+added additional functionality.
